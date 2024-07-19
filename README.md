@@ -50,13 +50,13 @@
   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 </p>
-<<h2 align="center">📈 GitHub Stats</h2>
+<!--<<h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoonSHD&show_icons=true&theme=radical&v=1" alt="GitHub Stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSHD&layout=compact&langs_count=5" alt="Top Languages"/>
-</p>
+</p>-->
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="mailto:kevin450@naver.com">
