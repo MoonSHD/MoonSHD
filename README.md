@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Moon Seung Hwan's Github</h1>
 <p align="center">
-  Java FullStack Developer
+  Java Web Developer
 </p>
 <hr>
 <h2 align="center">✨ Tech Stack ✨</h2>
