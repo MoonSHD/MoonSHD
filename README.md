@@ -57,7 +57,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoonSHD&layout=compact&langs_count=5" alt="Top Languages"/>
 </p>-->
-<h2 align="center">📫 How to reach me</h2>
+<!--<h2 align="center">📫 How to reach me</h2>
 <p align="center">
   <a href="mailto:kevin450@naver.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
